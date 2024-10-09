@@ -18,7 +18,8 @@
         "xstddef": "c",
         "type_traits": "c",
         "utility": "c",
-        "ranges": "c"
+        "ranges": "c",
+        "*.uf2": ""
     },
     "[markdown]": {
         "editor.trimAutoWhitespace": false,
