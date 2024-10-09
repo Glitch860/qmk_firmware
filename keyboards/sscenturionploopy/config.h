@@ -31,7 +31,7 @@
 #define WS2812_DI_PIN GP29
 
 #ifdef RGBLIGHT_ENABLE
-    #define RGBLED_NUM 20
+    #define RGBLIGHT_LED_COUNT 20
     #define RGBLIGHT_LIMIT_VAL 255
     #define RGBLIGHT_HUE_STEP 10
     #define RGBLIGHT_SAT_STEP 17
